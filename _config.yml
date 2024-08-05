@@ -21,7 +21,7 @@ repository               : "Eurekaarrow/Eurekaarrow.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./profile.PNG"
+  avatar           : "4.png"
   name             : "Yuchen Guo"
   pronouns         : # example: "she/her"  
   bio              : "Wlecome to my website!"
