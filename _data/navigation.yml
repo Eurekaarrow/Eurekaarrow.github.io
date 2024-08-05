@@ -2,27 +2,27 @@
 main:
   - title: "Publications"
     # url: /publications/
-    url: https://eurekaarrow.github.io/
+    url: ""
 
   - title: "Talks"
     # url: /talks/    
-    https://eurekaarrow.github.io/
+    https:"
 
   # - title: "Teaching"
   #   url: /teaching/    
     
   - title: "Portfolio"
     # url: /portfolio/
-    https://eurekaarrow.github.io/
+    https:""
         
   - title: "Blog Posts"
     # url: /year-archive/
-    https://eurekaarrow.github.io/
+    https:""
     
   - title: "CV"
     # url: /cv/
-    https://eurekaarrow.github.io/
+    https:""
     
   - title: "Guide"
     # url: /markdown/
-    https://eurekaarrow.github.io/
+    https:""
