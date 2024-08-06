@@ -15,7 +15,7 @@ Email: (r130026037@mail.uic.edu.hk) or (eurekaarrow@gmail.com)
 
 ## Research experience
 
-I am very fortunate to be the research intern currently advised by [Prof. Chao Dong](https://xpixel.group/2010/01/20/chaodong.html) of XPixel Group in MMLab@SIAT-CAS (Multimedia Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), which was founded by Prof. Xiaoou Tang and Prof. Yu Qiao, and it is currently led by Prof. Chao Dong. 
+I am very fortunate to be the research intern currently advised by [Prof. Chao Dong](https://xpixel.group/2010/01/20/chaodong.html) of XPixel Group in MMLab@SIAT-CAS (Multimedia Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), which was founded by [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and it is currently led by Prof. Chao Dong. 
 
 I also work closely with [Research Asst. Prof. Shihao Zou](https://jimmyzou.github.io/) and [Research Asst. Prof. Bin Fu](https://scholar.google.com/citations?hl=en&user=9WhK1y4AAAAJ&view_op=list_works). 
 
