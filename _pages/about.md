@@ -19,7 +19,7 @@ I am very fortunate to be the research intern currently advised by [Prof. Chao D
 
 I also work closely with [Research Asst. Prof. Shihao Zou](https://jimmyzou.github.io/) and [Research Asst. Prof. Bin Fu](https://scholar.google.com/citations?hl=en&user=9WhK1y4AAAAJ&view_op=list_works). 
 
-Before that, I attended the Oxford International Study Abroad Programme in the summer of 2023. Our team was awarded the Outstanding Performance Team.
+Before that, I attended the Oxford International Study Abroad Programme in the summer of 2023. Our team was awarded the Outstanding Performance Team by [Dr. Tom Rainforth](https://www.stats.ox.ac.uk/people/tom-rainforth).
 
 At school, I am privileged to be supervised by [Prof. Weifeng Su](https://fst.uic.edu.cn/en/faculty/faculty.htm#/wfsu/en) as my final-year project thesis director.
 
