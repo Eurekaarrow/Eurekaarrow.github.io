@@ -23,7 +23,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 <div class="publications">
 <ol class="bibliography">
-{% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
+{% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/eurekaarrow/eurekaarrow.github.io/' %}
 {% assign url = gsDataBaseUrl | append: 'google-scholar-stats/gs_data.json' %}
 {% for link in site.data.publications.main %}
 
@@ -62,7 +62,7 @@ The code is written in Markdown and is intended to be used in a website or web p
       <strong> <a style="color:#e74d3c; font-weight:600"> • <i class="total_citation_mtl" data-citation="{{ link.citation }}"></i> <i style="color:#e74d3c; font-weight:600"> Citations </i></a></strong>
       <script>
         $(document).ready(function () {
-            var gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/';
+            var gsDataBaseUrl = 'https://raw.githubusercontent.com/eurekaarrow/eurekaarrow.github.io/';
             $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
                 var citationEles = document.getElementsByClassName('total_citation_mtl');
                 Array.prototype.forEach.call(citationEles, function(element) {
