@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I'm a senior undergraduate student currently pursuing a B.S. (Honours) in Computer Science and Technology at Beijing Normal University - Hong Kong Baptist University United International College (<a href="https://www.uic.edu.cn/en/">BNU-HKBU UIC</a>). I'm majoring in Computer Science and Technology.
+I'm a senior undergraduate student currently pursuing a B.S. (Honours) in Computer Science and Technology at <a href="https://www.uic.edu.cn/en/">Beijing Normal University - Hong Kong Baptist University United International College</a>.
 
 I am very fortunate to be the research intern currently advised by <a href="https://xpixel.group/2010/01/20/chaodong.html">Prof. Chao Dong</a> of XPixel Group in MMLab@SIAT-CAS (Multimedia Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), which was founded by <a href="https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/">Prof. Xiaoou Tang</a> and <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en">Prof. Yu Qiao</a>, and it is currently led by Prof. Chao Dong. I also work closely with <a href="https://jimmyzou.github.io/">Research Asst. Prof. Shihao Zou</a> and <a href="https://scholar.google.com/citations?hl=en&user=9WhK1y4AAAAJ&view_op=list_works">Research Asst. Prof. Bin Fu</a>.
 
