@@ -1,0 +1,6 @@
+@article{guo2024fuse4seg,
+  title={Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation},
+  author={Guo, Yuchen and Su, Weifeng},
+  journal={arXiv preprint arXiv:2409.10328},
+  year={2024}
+}
