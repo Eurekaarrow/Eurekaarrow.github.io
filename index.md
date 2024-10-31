@@ -17,7 +17,7 @@ At school, I am privileged to be supervised by <a href="https://fst.uic.edu.cn/e
 ## Research Interest
 
 - **Multi-modality Image Fusion:** down-stream tasks with medical image segmentation and autonomous driving.
-- **Human Image Animation** elaborately Controllable Audio/Text-to-Video Synthesis.
+- **Human Image Animation:** elaborately Controllable Audio/Text-to-Video Synthesis.
 
 ## Education
 - **B.Sc. in Computer Science and Technology**, 2021 - 2025 (expc.), [Beijing Noral University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/en/), China
