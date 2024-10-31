@@ -6,43 +6,29 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I'm a senior undergraduate student currently pursuing a B.S. (Honours) in Computer Science and Technology at Beijing Normal University - Hong Kong Baptist University United International College (<a href="https://www.uic.edu.cn/en/">BNU-HKBU UIC</a>). I'm majoring in Computer Science and Technology.
+
+I am very fortunate to be the research intern currently advised by <a href="https://xpixel.group/2010/01/20/chaodong.html">Prof. Chao Dong</a> of XPixel Group in MMLab@SIAT-CAS (Multimedia Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), which was founded by <a href="https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/">Prof. Xiaoou Tang</a> and <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en">Prof. Yu Qiao</a>, and it is currently led by Prof. Chao Dong. I also work closely with <a href="https://jimmyzou.github.io/">Research Asst. Prof. Shihao Zou</a> and <a href="https://scholar.google.com/citations?hl=en&user=9WhK1y4AAAAJ&view_op=list_works">Research Asst. Prof. Bin Fu</a>.
+
+Before that, I attended the Oxford International Study Abroad Programme in the summer of 2023. Our team was awarded the Outstanding Performance Team by <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Dr. Tom Rainforth</a>.
+
+At school, I am privileged to be supervised by <a href="https://fst.uic.edu.cn/en/faculty/faculty.htm#/wfsu/en">Prof. Weifeng Su</a>, the Department Head of Department of Computer Science, as my final-year project director. And I also work closely with <a href="https://fst.uic.edu.cn/en/faculty/faculty.htm#/zhexuanyuan/en">Prof. Zhe Xuanyuan</a>, the Acting Dean and Associate Dean for Research and Development, Faculty of Science and Technology in BNU-HKBU UIC.
 
 ## Research Interest
 
-- **Ion-material Simulation:** SRIM, SDTrimSP, RustBCA
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Multi-modality Image Fusion:** down-stream tasks with medical image segmentation and autonomous driving.
+- **Human Image Animation** elaborately Controllable Audio/Text-to-Video Synthesis.
 
 ## Education
-- **Ph.D. in Physics**, 2021 - 2024, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
-- **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
-- **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
-  - [Business English](https://blog.songchen.science/documents/coursera/6B4CVLYK9ASD.pdf)
-  - [Google Project Management](https://blog.songchen.science/documents/coursera/GPM.pdf)
+- **B.Sc. in Computer Science and Technology**, 2021 - 2025 (expc.), [Beijing Noral University - Hong Kong Baptist University United International College]([https://www.njtech.edu.cn/](https://www.uic.edu.cn/en/)), China
+- **Summer Visiting in Artificial Interlligence and Machine Learning**, summer 2023, [University of Oxford](https://www.ox.ac.uk/), UK
 
-## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
+## Awards and Scholarships
+- **Medical Valley Scholarship**, 2024
+- **The Second Computer Science Related Poster Exhibition Excellent Award**, 2024
+- **First-Class Award Scholarship**, 2022-2023
+- **Second-Class Award Scholarship**, 2021-2022
 
-## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
-
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/conference.md %}
-
-{% include_relative _includes/contact.md %}
+## Teaching Experience
+- **Teaching Assistant in Computer Vision**, 2024
+- **Teaching Assistant in Kayaking**, 2022
