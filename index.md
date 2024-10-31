@@ -32,7 +32,7 @@ At school, I am privileged to be supervised by <a href="https://fst.uic.edu.cn/e
 ## Teaching Experience
 - **Teaching Assistant in Computer Vision**, 2024
 - **Teaching Assistant in Kayaking**, 2022
-- 
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
