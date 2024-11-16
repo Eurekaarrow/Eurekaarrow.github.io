@@ -20,8 +20,8 @@ At school, I am privileged to be supervised by <a href="https://fst.uic.edu.cn/e
 - **Human Image Animation:** elaborately Controllable Audio/Text-to-Video Synthesis.
 
 ## Education
-- <img src="./assets/img/uic.svg" alt="UIC Logo" width="20"/> **B.Sc. in Computer Science and Technology**, 2021 - 2025 (expc.), [Beijing Noral University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/en/), China
-- <img src="./assets/img/oxford.webp" alt="Oxford Logo" width="20"/> **Summer Visiting in Artificial Interlligence and Machine Learning**, summer 2023, [University of Oxford](https://www.ox.ac.uk/), UK
+- **B.Sc. in Computer Science and Technology**, 2021 - 2025 (expc.), [Beijing Noral University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/en/), China
+- **Summer Visiting in Artificial Interlligence and Machine Learning**, summer 2023, [University of Oxford](https://www.ox.ac.uk/), UK
 
 ## Awards and Scholarships
 - **Medical Valley Scholarship**, 2024
