@@ -17,23 +17,26 @@ Before that, I attended the Oxford International Study Abroad Programme at <a hr
 {% include_relative _includes/news.md %}
 
 ## Research Interest
+- **Embodied AI:** end-to-end autonomous driving and robotics navigation.
+- **Video Generation:** human image animation.
+- **Low-level Computer Vision:** multi-modality image fusion.
 
-- **Multi-modality Image Fusion:** down-stream tasks with medical image segmentation and autonomous driving.
-- **Human Image Animation:** elaborately Controllable Audio/Text-to-Video Synthesis.
+## Education 
+- **B.Sc. in Computer Science and Technology**, [Beijing Noral University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/en/), 2021 - 2025 (expc.)
+- **Summer Visiting in Artificial Interlligence and Machine Learning**, [University of Oxford](https://www.ox.ac.uk/), summer 2023
 
-## Education
-- **B.Sc. in Computer Science and Technology**, 2021 - 2025 (expc.), [Beijing Noral University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/en/), China
-- **Summer Visiting in Artificial Interlligence and Machine Learning**, summer 2023, [University of Oxford](https://www.ox.ac.uk/), UK
+## Research Experience 
+- **AIR, Tsinghua University**, Institute of AI Industry Research, Dec 2024 - present
+- **SIAT MMLab, Chinese Academy of Sciences**, Multimedia Laboratory at Shenzhen Institutes of Advanced Technology, Jan 2024 - Jan 2025 (expc.)
+- **IRADS Lab, BNU-HKBU UIC**, Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science, Mar 2024 - Sep 2024
+- **University of Oxford**, Oxford International Study Abroad Programme, Jul 2023 - Aug 2023
 
-## Awards and Scholarships
-- **Medical Valley Scholarship**, 2024
-- **The Second Computer Science Related Poster Exhibition Excellent Award**, 2024
-- **First-Class Award Scholarship**, 2022-2023
-- **Second-Class Award Scholarship**, 2021-2022
+## Academic Services
+- Conference Reviewer in **AAAI 2025**, **ICME 2025**.
 
-## Teaching Experience
-- **Teaching Assistant in Computer Vision**, 2024
-- **Teaching Assistant in Kayaking**, 2022
+## Teaching
+- Teaching Assistant in **Computer Vision (AI3143)**, 2024
+- Teaching Assistant in **Kayaking (UCHL1183)**, 2022
 
 
 {% include_relative _includes/publications.md %}
