@@ -12,7 +12,7 @@ I have started my winter research with <a href="https://philipflyg.github.io/">P
 
 Also, I am very fortunate to be the research intern advised by <a href="https://xpixel.group/2010/01/20/chaodong.html">Prof. Chao Dong</a> of XPixel Group in <a href="https://mmlab.siat.ac.cn/">MMLab@SIAT-CAS</a> (Multimedia Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), which was founded by <a href="https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/">Prof. Xiaoou Tang</a> and <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en">Prof. Yu Qiao</a>, and it is currently led by Prof. Chao Dong. I also work closely with <a href="https://jimmyzou.github.io/">Research Asst. Prof. Shihao Zou</a> and <a href="https://scholar.google.com/citations?hl=en&user=9WhK1y4AAAAJ&view_op=list_works">Research Asst. Prof. Bin Fu</a>.
 
-Before that, I attended the Oxford International Study Abroad Programme at <a href="https://www.ox.ac.uk/">University of Oxford</a> in the summer of 2023. Our team was awarded the Outstanding Performance Team by <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Dr. Tom Rainforth</a>.
+Before that, I attended the Oxford International Study Abroad Programme at <a href="https://www.ox.ac.uk/">University of Oxford</a> in the summer of 2023. Our team was awarded the Outstanding Performance Team by <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Prof. Tom Rainforth</a>.
 
 {% include_relative _includes/news.md %}
 
