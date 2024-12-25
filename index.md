@@ -22,7 +22,7 @@ Before that, I attended the Oxford International Study Abroad Programme at <a hr
 - **Low-level Computer Vision:** multi-modality image fusion.
 
 ## Education 
-- **B.Sc. in Computer Science and Technology**, [Beijing Noral University - Hong Kong Baptist University United International College](https://www.uic.edu.cn/en/), 2021 - 2025 (expc.)
+- **B.Sc. in Computer Science and Technology**, [BNU-HKBU United International College](https://www.uic.edu.cn/en/), 2021 - 2025 (expc.)
 - **Summer Visiting in Artificial Interlligence and Machine Learning**, [University of Oxford](https://www.ox.ac.uk/), summer 2023
 
 ## Research Experience 
