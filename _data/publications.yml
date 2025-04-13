@@ -11,7 +11,7 @@ main:
   - title: "DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion"
     authors: "<strong>Yuchen Guo</strong>, Ruoxiang Xu, Rongcheng Li and Weifeng Su"
     conference_short: "ICME 2025"
-    conference: "ICME 2025"
+    conference: "IEEE International Conference on Multimedia & Expo (<strong>ICME</strong>) 2025"
     pdf: "./assets/files/2409.10080v1.pdf"
     page: "https://eurekaarrow.github.io/daefuse.github.io/"
     bibtex: "./assets/files/DAE.txt"
