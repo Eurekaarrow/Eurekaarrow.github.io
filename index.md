@@ -6,13 +6,9 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-I'm a senior undergraduate student currently pursuing a B.S. (Honours) in Computer Science and Technology at <a href="https://www.uic.edu.cn/en/">Beijing Normal University - Hong Kong Baptist University United International College</a>. I supervised by <a href="https://fst.uic.edu.cn/en/faculty/faculty.htm#/wfsu/en">Prof. Weifeng Su</a>, the Department Head of Department of Computer Science, as my final-year project director. And I work closely with <a href="https://fst.uic.edu.cn/en/faculty/faculty.htm#/zhexuanyuan/en">Prof. Zhe Xuanyuan</a>, the Acting Dean and Associate Dean for Research and Development, Faculty of Science and Technology in BNU-HKBU UIC.
+I'm a senior undergraduate student currently pursuing a B.S. (Honours) in Computer Science and Technology at <a href="https://www.uic.edu.cn/en/">Beijing Normal - Hong Kong Baptist University</a>(BNBU). I supervised by <a href="https://fst.uic.edu.cn/en/faculty/faculty.htm#/wfsu/en">Prof. Weifeng Su</a>, the Department Head of Department of Computer Science. And I work closely with <a href="https://fst.uic.edu.cn/en/faculty/faculty.htm#/zhexuanyuan/en">Prof. Zhe Xuanyuan</a>, the Acting Dean and Associate Dean for Research and Development, Faculty of Science and Technology.
 
-I have started my winter research with <a href="https://philipflyg.github.io/">PhD Candindate Pengfei Li</a> at <a href="https://air.tsinghua.edu.cn/en/">AIR</a> (Institute of AI Industry Research), <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>. I also work closely with <a href="https://wenchaoding.github.io/personal/index.html">Prof. Wenchao Ding</a>.
-
-Also, I am very fortunate to be the research intern advised by <a href="https://xpixel.group/2010/01/20/chaodong.html">Prof. Chao Dong</a> of XPixel Group in <a href="https://mmlab.siat.ac.cn/">MMLab@SIAT-CAS</a> (Multimedia Lab at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), which was founded by <a href="https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/">Prof. Xiaoou Tang</a> and <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en">Prof. Yu Qiao</a>, and it is currently led by Prof. Chao Dong. I also work closely with <a href="https://jimmyzou.github.io/">Research Asst. Prof. Shihao Zou</a> and <a href="https://scholar.google.com/citations?hl=en&user=9WhK1y4AAAAJ&view_op=list_works">Research Asst. Prof. Bin Fu</a>.
-
-Before that, I attended the Oxford International Study Abroad Programme at <a href="https://www.ox.ac.uk/">University of Oxford</a> in the summer of 2023. Our team was awarded the Outstanding Performance Team by <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Prof. Tom Rainforth</a>.
+previously, I held research intern positions at the <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a>, and at the <a href="https://mmlab.siat.ac.cn/">MMLab@SIAT-CAS</a> (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), advised by <a href="https://xpixel.group/2010/01/20/chaodong.html">Prof. Chao Dong</a>. In the summer of 2023, I was a visiting student at the <a href="https://www.ox.ac.uk/">University of Oxford</a>, advised by <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Prof. Tom Rainforth</a>.
 
 {% include_relative _includes/news.md %}
 
@@ -27,8 +23,8 @@ Before that, I attended the Oxford International Study Abroad Programme at <a hr
 
 ## Research Experience 
 - **AIR, Tsinghua University**, Institute of AI Industry Research, Dec 2024 - present
-- **SIAT MMLab, Chinese Academy of Sciences**, Multimedia Laboratory at Shenzhen Institutes of Advanced Technology, Jan 2024 - Jan 2025 (expc.)
-- **IRADS Lab, BNU-HKBU UIC**, Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science, Mar 2024 - Sep 2024
+- **SIAT MMLab, Chinese Academy of Sciences**, Multimedia Laboratory at Shenzhen Institutes of Advanced Technology, Jan 2024 - Jan 2025
+- **IRADS Lab, BNBU**, Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science, Mar 2024 - Sep 2024
 - **University of Oxford**, Oxford International Study Abroad Programme, Jul 2023 - Aug 2023
 
 ## Academic Services
