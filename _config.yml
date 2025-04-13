@@ -1,7 +1,7 @@
 # Basic Information 
 title: Yuchen Guo
 position: Senior Student
-affiliation: Beijing Normal University - Hong Kong Baptist University United International College
+affiliation: Beijing Normal - Hong Kong Baptist University
 subaffiliation: Computer Science and Technnology
 affiliation_link: https://www.uic.edu.cn/en/
 # subaffiliation_link: https://www.spin-ion.com/
@@ -14,7 +14,7 @@ email2: r130026037 (at) mail.uic.edu.hk
 # Search Engine Optimization (SEO)
 keywords: Yuchen Guo, Guo Yuchen, Yuchen Guo UIC
 canonical: https://minimal-light-theme.yliu.me/
-description: Yuchen Guo is currently a senior undergraduate student from the BNU-HKBU United International College graduating in Dec 2024.
+description: Yuchen Guo is currently a senior undergraduate student in the Beijing Normal - Hong Kong Baptist University graduating in Dec 2024.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -29,7 +29,7 @@ github_link: https://eurekaarrow.github.io/
 researchgate: https://www.researchgate.net/profile/Yuchen-Guo-34
 
 # Images 
-avatar: ./assets/img/微信图片_20240922232953.jpg
+avatar: ./assets/img/profile1.jpg
 favicon: ./assets/img/profile.png
 favicon_dark: ./assets/img/profile.png
 
