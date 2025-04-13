@@ -10,7 +10,6 @@ I'm a senior undergraduate student currently pursuing a B.S. (Honours) in Comput
 
 previously, I held research intern positions at the <a href="https://air.tsinghua.edu.cn/en/">Institute for AI Industry Research (AIR)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, advised by <a href="https://air.tsinghua.edu.cn/en/info/1046/1621.htm">Prof. Yilun Chen</a>, and at the <a href="https://mmlab.siat.ac.cn/">MMLab@SIAT-CAS</a> (Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences), advised by <a href="https://xpixel.group/2010/01/20/chaodong.html">Prof. Chao Dong</a>. In the summer of 2023, I was a visiting student at the <a href="https://www.ox.ac.uk/">University of Oxford</a>, advised by <a href="https://www.stats.ox.ac.uk/people/tom-rainforth">Prof. Tom Rainforth</a>.
 
-{% include_relative _includes/news.md %}
 
 ## Research Interest
 - **Embodied AI:** end-to-end autonomous driving and robotics navigation.
